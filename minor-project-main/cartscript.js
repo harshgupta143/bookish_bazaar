@@ -19,24 +19,24 @@ $(document).ready(function() {
 			price: "Rs. 600.00",
 			photo: "medical.jpg"
 		},{
-			productName: "Accounts",
-			price: "Rs. 430.00",
-			photo: "accounts.jpeg.jpg"
+			productName: "Love story",
+			price: "Rs. 180.00",
+			photo: "/love story.jpg"
 		},
 		{
-			productName: "It Ends With Us",
+			productName: "KarmaYoga",
 			price: "Rs. 170.00",
-			photo: "it ends with us.jpg"
+			photo: "/vivekananda-literature-4-different-books-500x500.webp"
 		},
 		{
-			productName: "Novel",
-			price: "Rs. 250.00",
-			photo: "novel.jpg"
+			productName: "Software Engineering",
+			price: "Rs. 370.00",
+			photo: "/Software testing.jpg"
 		},
 		{
-			productName: "Medical",
-			price: "600.00",
-			photo: "medical.jpg"
+			productName: "Physics",
+			price: "Rs. 600.00",
+			photo: "/Nootan Physics.jpg"
 		}];
 	showProductGallery(productItem);
 	showCartTable();
